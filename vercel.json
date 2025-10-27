@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm install && pnpm run build:vercel",
+  "outputDirectory": "dist",
+  "framework": null,
+  "installCommand": "pnpm install",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
